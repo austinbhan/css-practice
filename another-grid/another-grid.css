@@ -1,32 +1,41 @@
 .grid-practice {
     display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "Grid-1 Grid-2 Grid-3"
+    "Grid-4 Grid-4 Grid-5"
+    "Grid-6 Grid-7 Grid-7"
+    "Grid-6 Grid-7 Grid-7";
+    height: 800px;
+    width: 600px;
 }
 
-#grid- {
+#grid-1 {
     background-color: lightblue;
     grid-area: Grid-1;
 }
-#grid- {
+#grid-2 {
     background-color: lightcyan;
     grid-area: Grid-2;
 }
-#grid- {
+#grid-3 {
     background-color: lightpink;
-    grid-area: ;
+    grid-area: Grid-3;
 }
-#grid- {
+#grid-4 {
     background-color: lightgreen;
-    grid-area: ;
+    grid-area: Grid-4;
 }
-#grid- {
+#grid-5 {
     background-color: lightsalmon;
-    grid-area: ;
+    grid-area: Grid-5;
 }
-#grid- {
+#grid-6 {
     background-color: lightskyblue;
-    grid-area: ;
+    grid-area: Grid-6;
 }
-#grid- {
+#grid-7 {
     background-color: lightgrey;
-    grid-area: ;
+    grid-area: Grid-7;
 }
