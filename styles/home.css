@@ -1,1 +1,49 @@
 /* add home page styles here */
+
+.trial-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#grid-1 { color: ;
+        background-color: lightblue;
+    
+}
+#grid-2 { color: ;
+        background-color: ;
+    
+}
+#grid-3 { color: ;
+        background-color: lightblue;
+    
+}
+#grid-4 { color: ;
+        background-color: ;
+    
+}
+#grid-5 { color: ;
+        background-color: lightblue;
+
+}
+#grid-6 { color: ;
+        background-color: ;
+    
+}
+#grid-7 { color: ;
+        background-color: lightblue;
+    
+}
+#grid-8 { color: ;
+        background-color: ;
+    
+}
+#grid-9 { color: ;
+        background-color: lightblue;
+    
+}
+
+
+
+
+
