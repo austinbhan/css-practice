@@ -1,3 +1,32 @@
 .grid-practice {
-    
+    display: grid;
+}
+
+#grid- {
+    background-color: lightblue;
+    grid-area: Grid-1;
+}
+#grid- {
+    background-color: lightcyan;
+    grid-area: Grid-2;
+}
+#grid- {
+    background-color: lightpink;
+    grid-area: ;
+}
+#grid- {
+    background-color: lightgreen;
+    grid-area: ;
+}
+#grid- {
+    background-color: lightsalmon;
+    grid-area: ;
+}
+#grid- {
+    background-color: lightskyblue;
+    grid-area: ;
+}
+#grid- {
+    background-color: lightgrey;
+    grid-area: ;
 }
