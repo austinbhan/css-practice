@@ -26,7 +26,12 @@
 #grid-4 {
     background-color: lightgreen;
     grid-area: Grid-4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
+
 #grid-5 {
     background-color: lightsalmon;
     grid-area: Grid-5;
